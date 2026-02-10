@@ -5,8 +5,6 @@ backend/node_modules/
 frontend/node_modules/
 
 # Environment variables
-.env
-**/.env
 
 # Build outputs
 dist/
@@ -14,4 +12,4 @@ build/
 
 # IDE/OS files
 .DS_Store
-.vscode/
+config.bat
